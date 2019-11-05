@@ -1,0 +1,2 @@
+temp_str <- paste("Hello GH")
+print(temp_str)
